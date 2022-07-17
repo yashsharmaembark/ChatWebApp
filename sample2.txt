@@ -1,0 +1,4 @@
+*add members
+*disappearing messages within 24 hours
+*status about chat
+*bio of the person
